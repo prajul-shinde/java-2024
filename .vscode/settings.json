@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "5.ControlFlow",
+        "4.Objects",
+        "3.PrimitivesArraysAndCasting",
+        "2.PackagesAndClasses",
+        "1.Welcome",
+        "6.Methods"
+    ]
+}
