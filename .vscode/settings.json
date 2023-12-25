@@ -1,10 +1,12 @@
 {
     "java.project.sourcePaths": [
+        "7.AccessModifiers",
+        "6.Methods",
         "5.ControlFlow",
         "4.Objects",
         "3.PrimitivesArraysAndCasting",
         "2.PackagesAndClasses",
         "1.Welcome",
-        "6.Methods"
+        "moreaccessModifiers"
     ]
 }
