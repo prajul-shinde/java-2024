@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "moreaccessModifiers",
+        "8.StringAndStringBuilder",
         "7.AccessModifiers",
         "6.Methods",
         "5.ControlFlow",
@@ -8,6 +9,6 @@
         "3.PrimitivesArraysAndCasting",
         "2.PackagesAndClasses",
         "1.Welcome",
-        "8.StringAndStringBuilder"
+        "9.DateAndTime"
     ]
 }
