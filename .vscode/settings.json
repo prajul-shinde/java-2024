@@ -9,7 +9,9 @@
         "4.Objects",
         "3.PrimitivesArraysAndCasting",
         "2.PackagesAndClasses",
+        "10.Oop",
         "1.Welcome",
-        "10.Oop"
-    ]
+        "11.Constructors"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
