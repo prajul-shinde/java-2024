@@ -1,6 +1,5 @@
 {
     "java.project.sourcePaths": [
-        "moreaccessModifiers",
         "9.DateAndTime",
         "8.StringAndStringBuilder",
         "7.AccessModifiers",
@@ -9,9 +8,10 @@
         "4.Objects",
         "3.PrimitivesArraysAndCasting",
         "2.PackagesAndClasses",
+        "11.Constructors",
         "10.Oop",
         "1.Welcome",
-        "11.Constructors"
+        "12.Enums"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
