@@ -8,11 +8,12 @@
         "4.Objects",
         "3.PrimitivesArraysAndCasting",
         "2.PackagesAndClasses",
+        "13.InterfacesAndAbstractClasses",
         "12.Enums",
         "11.Constructors",
         "10.Oop",
         "1.Welcome",
-        "13.InterfacesAndAbstractClasses"
+        "14.GenericsAndCollections"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
