@@ -1,20 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "9.DateAndTime",
-        "8.StringAndStringBuilder",
-        "7.AccessModifiers",
-        "6.Methods",
-        "5.ControlFlow",
-        "4.Objects",
-        "3.PrimitivesArraysAndCasting",
-        "2.PackagesAndClasses",
-        "14.GenericsAndCollections",
-        "13.InterfacesAndAbstractClasses",
-        "12.Enums",
-        "11.Constructors",
-        "10.Oop",
-        "1.Welcome",
-        "15.Exceptions"
-    ],
-    "java.debug.settings.onBuildFailureProceed": true
+        "16.fileIO",
+        "16.readingandwriting"
+    ]
 }
