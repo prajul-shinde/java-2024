@@ -2,6 +2,7 @@
     "java.project.sourcePaths": [
         "16.fileIO",
         "16.readingandwriting",
-        "17.lambdaexpressions"
+        "17.lambdaexpressions",
+        "18.functionalProgramming"
     ]
 }
